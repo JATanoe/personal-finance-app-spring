@@ -1,0 +1,17 @@
+{
+  "name": "personal-finance-app",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Personal Finance Management Application made from scratch",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Arnaud Tanoe",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15"
+  }
+}
